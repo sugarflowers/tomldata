@@ -1,0 +1,12 @@
+[package]
+name = "tomldata"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+toml = "1.0.0"
+textreader = { git = "https://github.com/sugarflowers/textreader.git" }
+sjis = { git = "https://github.com/sugarflowers/sjis.git" }
+anyhow = "1.0.101"
+
+
